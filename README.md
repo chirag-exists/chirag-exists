@@ -10,7 +10,7 @@ I am an aspiring engineer focused on the transformative potential of **AI, Data 
 
 * **AI & Optimization:** Prompt Engineering, AI/ML
 * **Data & Security:** Data Analysis, OSINT Investigation, Cybersecurity
-* **Programming:** Python, C++, C, Js
+* **Programming:** Python,JAVA, C++, C, Js
 
 ---
 
